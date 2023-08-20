@@ -4,7 +4,7 @@
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot from 2023-08-20 01-32-57](https://github.com/Meetkamal256/QR-code-component-frontend-mentor-challenge/assets/104779844/ec7f9916-6460-4c88-951e-2f03f1b5783d)
 
 
 ### Links
