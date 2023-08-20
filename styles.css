@@ -24,14 +24,14 @@ body{
 }
 
 #container{
-    max-width: 235px;
+    max-width: 250px;
 }
 
 .card{
     display: flex;
     flex-direction: column;
     background-color: var(--White);
-    padding: 18px;
+    padding: 12px;
     border-radius: 15px;
     text-align: center;
     margin: 0 1rem;
